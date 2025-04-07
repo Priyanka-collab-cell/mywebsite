@@ -210,6 +210,7 @@ nav ul {
     .contact-hero p {
         font-size: 1.2rem;
         color: #555;
+        text-align:center;
     }
 
 .contact-form {
@@ -337,6 +338,7 @@ nav ul {
     .about-hero p {
         font-size: 1.2rem;
         color: #555;
+         text-align:center;
     }
 
 /* History Section */
